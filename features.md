@@ -1,10 +1,10 @@
 # Available Features
-## ## [Automation]
+ ## [Automation]
  ## [Settings]
 - Auto Set Spawn
 - Bring Mob
 - Weapon Select
-## ## [Main Automation]
+ ## [Main Automation]
 - Level Farm
 - Auto Second/Third Sea
 - Auto Farm Factory
