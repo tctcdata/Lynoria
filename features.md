@@ -1,9 +1,9 @@
 Available Features
 [Automation]
 <Settings>
-● Auto Set Spawn
-● Bring Mob
-● Weapon Select
+- Auto Set Spawn
+* Bring Mob
++ Weapon Select
 <Main Automation>
 ● Level Farm
 ● Auto Second/Third Sea
