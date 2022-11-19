@@ -2,12 +2,12 @@
 ## [Automation]
  [Settings]
 - Auto Set Spawn
-* Bring Mob
-+ Weapon Select
-<Main Automation>
-● Level Farm
-● Auto Second/Third Sea
-● Auto Farm Factory
+- Bring Mob
+- Weapon Select
+## [Main Automation]
+- Level Farm
+- Auto Second/Third Sea
+- Auto Farm Factory
 <Fighting Styles>
 ● Auto Superhuman
 ● Auto Deathstep
