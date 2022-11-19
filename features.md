@@ -1,4 +1,4 @@
-# Available Features
+Available Features
 [Automation]
 <Settings>
 ● Auto Set Spawn
