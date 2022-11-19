@@ -1,6 +1,6 @@
-Available Features
-[Automation]
-<Settings>
+# Available Features
+ [Automation]
+  <Settings>
 - Auto Set Spawn
 * Bring Mob
 + Weapon Select
