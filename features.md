@@ -1,5 +1,5 @@
 # Available Features
- [Automation]
+## [Automation]
  [Settings]
 - Auto Set Spawn
 * Bring Mob
